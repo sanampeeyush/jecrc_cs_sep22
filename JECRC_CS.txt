@@ -1,0 +1,39 @@
+git-scm.com
+
+https://www.kaggle.com/datasets/sanamps/movielens-recommender
+
+https://www.kaggle.com/sanamps/datasets
+
+GIT Process
+------------
+> Create new repository
+> Provide valid name
+> Select Public repo
+> finish
+
+Goto your folder (for e.g. JECRC_CS)
+type cmd in address bar then enter
+
+GIT COMMANDS.  
+-------------
+git init             # Initialize the GIT folder
+git add .    	       # Add all files/folders
+git config user.name "Your Name"
+git config user.email "youremail@id.com"
+git remote add origin "yourrepolink.git"
+
+git commit -m "anymessage"
+git push -u origin main
+
+
+
+
+
+
+
+
+
+
+
+
+
