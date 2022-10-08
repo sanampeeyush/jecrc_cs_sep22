@@ -23,7 +23,7 @@ git config user.email "youremail@id.com"
 git remote add origin "yourrepolink.git"
 
 git commit -m "anymessage"
-git push -u origin main
+git push -u origin main     # or master or whatever branch
 
 
 
