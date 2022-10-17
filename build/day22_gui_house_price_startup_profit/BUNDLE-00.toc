@@ -1,0 +1,3 @@
+([('day22_gui_house_price_startup_profit',
+   '/Users/sanamps/Documents/Upflairs/training/JECRC_CS/dist/day22_gui_house_price_startup_profit',
+   'EXECUTABLE')],)
